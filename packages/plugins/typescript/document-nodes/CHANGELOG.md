@@ -1,5 +1,12 @@
 # @graphql-codegen/typescript-document-nodes
 
+## 1.17.16
+
+### Patch Changes
+
+- Updated dependencies [9005cc17]
+  - @graphql-codegen/visitor-plugin-common@1.22.0
+
 ## 1.17.15
 
 ### Patch Changes

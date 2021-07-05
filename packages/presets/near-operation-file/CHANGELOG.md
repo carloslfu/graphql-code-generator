@@ -1,5 +1,13 @@
 # @graphql-codegen/near-operation-file-preset
 
+## 1.18.5
+
+### Patch Changes
+
+- 15b18aa3: fix missing imports on dedupeFragments on near-operation-file
+- Updated dependencies [9005cc17]
+  - @graphql-codegen/visitor-plugin-common@1.22.0
+
 ## 1.18.4
 
 ### Patch Changes

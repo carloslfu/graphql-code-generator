@@ -1,5 +1,12 @@
 # @graphql-codegen/c-sharp-operations
 
+## 1.19.5
+
+### Patch Changes
+
+- Updated dependencies [9005cc17]
+  - @graphql-codegen/visitor-plugin-common@1.22.0
+
 ## 1.19.4
 
 ### Patch Changes

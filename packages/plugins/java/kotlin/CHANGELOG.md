@@ -1,5 +1,13 @@
 # @graphql-codegen/kotlin
 
+## 1.18.5
+
+### Patch Changes
+
+- Updated dependencies [9005cc17]
+  - @graphql-codegen/visitor-plugin-common@1.22.0
+  - @graphql-codegen/java-common@1.17.13
+
 ## 1.18.4
 
 ### Patch Changes

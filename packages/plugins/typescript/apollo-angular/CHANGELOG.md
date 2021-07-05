@@ -1,5 +1,12 @@
 # @graphql-codegen/typescript-apollo-angular
 
+## 2.3.8
+
+### Patch Changes
+
+- Updated dependencies [9005cc17]
+  - @graphql-codegen/visitor-plugin-common@1.22.0
+
 ## 2.3.7
 
 ### Patch Changes

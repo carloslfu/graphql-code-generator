@@ -1,5 +1,17 @@
 # @graphql-codegen/typescript-resolvers
 
+## 1.20.0
+
+### Minor Changes
+
+- 9005cc17: add `allowEnumStringTypes` option for allowing string literals as valid return types from resolvers in addition to enum values.\_
+
+### Patch Changes
+
+- Updated dependencies [9005cc17]
+  - @graphql-codegen/visitor-plugin-common@1.22.0
+  - @graphql-codegen/typescript@1.23.0
+
 ## 1.19.5
 
 ### Patch Changes

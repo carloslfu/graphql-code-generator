@@ -1,5 +1,12 @@
 # @graphql-codegen/typescript-stencil-apollo
 
+## 1.18.9
+
+### Patch Changes
+
+- Updated dependencies [9005cc17]
+  - @graphql-codegen/visitor-plugin-common@1.22.0
+
 ## 1.18.8
 
 ### Patch Changes
